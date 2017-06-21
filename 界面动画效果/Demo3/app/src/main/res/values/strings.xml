@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo3</string>
+    <string name="first">First</string>
+    <string name="place">地点</string>
+    <string name="how">晴</string>
+    <string name="third">Third</string>
+    <string name="four">Four</string>
+    <string name="delete">delete</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="main">主页面</string>
+    <string name="add">add</string>
+</resources>
