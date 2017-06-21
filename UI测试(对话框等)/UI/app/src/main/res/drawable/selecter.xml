@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:state_focused="true"
+            android:drawable="@drawable/btn_nav_drag_down_pressed"/> <!-- pressed -->
+        <item android:state_focused="true"
+            android:drawable="@drawable/mode_driving_focused" /> <!-- focused -->
+        <item android:state_hovered="true"
+            android:drawable="@drawable/mode_driving_on" /> <!-- hovered -->
+        <item android:drawable="@drawable/btn_nav_drag_down_normal" /> <!-- default -->
+
+</selector>
