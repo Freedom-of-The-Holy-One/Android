@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DC</string>
+    <string name="chose">选取景点：</string>
+    <string name="rb_main">全部</string>
+    <string name="rb_Humanities">人文</string>
+    <string name="rb_history">历史</string>
+    <string name="rb_natural">自然</string>
+    <string name="had_chose">已选景点：</string>
+    <string name="clear">清除已选景点</string>
+    <string name="route">最佳路线生成</string>
+</resources>
